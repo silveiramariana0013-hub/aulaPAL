@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\pal\mostrar todos os valores\mostrar todos os valores\obj\Debug\net10.0\mostrar todos os valores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\pal\mostrar todos os valores\mostrar todos os valores\obj\Debug\net10.0\mostrar todos os valores.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\pal\mostrar todos os valores\mostrar todos os valores\obj\Debug\net10.0\mostrar todos os valores.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\pal\mostrar todos os valores\mostrar todos os valores\obj\Debug\net10.0\mostrar todos os valores.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\pal\mostrar todos os valores\mostrar todos os valores\bin\Debug\net10.0\mostrar todos os valores.exe
+C:\Users\fatec-ams-ds1\Documents\pal\mostrar todos os valores\mostrar todos os valores\bin\Debug\net10.0\mostrar todos os valores.deps.json
+C:\Users\fatec-ams-ds1\Documents\pal\mostrar todos os valores\mostrar todos os valores\bin\Debug\net10.0\mostrar todos os valores.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\pal\mostrar todos os valores\mostrar todos os valores\bin\Debug\net10.0\mostrar todos os valores.dll
+C:\Users\fatec-ams-ds1\Documents\pal\mostrar todos os valores\mostrar todos os valores\bin\Debug\net10.0\mostrar todos os valores.pdb
+C:\Users\fatec-ams-ds1\Documents\pal\mostrar todos os valores\mostrar todos os valores\obj\Debug\net10.0\mostrar todos os valores.dll
+C:\Users\fatec-ams-ds1\Documents\pal\mostrar todos os valores\mostrar todos os valores\obj\Debug\net10.0\refint\mostrar todos os valores.dll
+C:\Users\fatec-ams-ds1\Documents\pal\mostrar todos os valores\mostrar todos os valores\obj\Debug\net10.0\mostrar todos os valores.pdb
+C:\Users\fatec-ams-ds1\Documents\pal\mostrar todos os valores\mostrar todos os valores\obj\Debug\net10.0\mostrar todos os valores.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\pal\mostrar todos os valores\mostrar todos os valores\obj\Debug\net10.0\ref\mostrar todos os valores.dll

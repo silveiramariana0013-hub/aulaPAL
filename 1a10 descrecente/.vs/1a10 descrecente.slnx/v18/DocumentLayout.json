@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\1a10 descrecente\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{39254CD8-3C17-491B-8EAF-B626E1C4CFBB}|1a10 descrecente\\1a10 descrecente.csproj|c:\\users\\fatec-ams-ds1\\documents\\pal\\1a10 descrecente\\1a10 descrecente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39254CD8-3C17-491B-8EAF-B626E1C4CFBB}|1a10 descrecente\\1a10 descrecente.csproj|solutionrelative:1a10 descrecente\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\1a10 descrecente\\1a10 descrecente\\Program.cs",
+              "RelativeDocumentMoniker": "1a10 descrecente\\Program.cs",
+              "ToolTip": "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\1a10 descrecente\\1a10 descrecente\\Program.cs",
+              "RelativeToolTip": "1a10 descrecente\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-05T16:24:48.507Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
