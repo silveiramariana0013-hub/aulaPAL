@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\10 POSITIVO NEGATIVO\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6173DBAB-056F-47A0-8C6D-90D8B9271CFB}|10 POSITIVO NEGATIVO\\10 POSITIVO NEGATIVO.csproj|c:\\users\\fatec-ams-ds1\\documents\\pal\\10 positivo negativo\\10 positivo negativo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6173DBAB-056F-47A0-8C6D-90D8B9271CFB}|10 POSITIVO NEGATIVO\\10 POSITIVO NEGATIVO.csproj|solutionrelative:10 positivo negativo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\10 POSITIVO NEGATIVO\\10 POSITIVO NEGATIVO\\Program.cs",
+              "RelativeDocumentMoniker": "10 POSITIVO NEGATIVO\\Program.cs",
+              "ToolTip": "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\10 POSITIVO NEGATIVO\\10 POSITIVO NEGATIVO\\Program.cs",
+              "RelativeToolTip": "10 POSITIVO NEGATIVO\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-08-19T15:33:20.062Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

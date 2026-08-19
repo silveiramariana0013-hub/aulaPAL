@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\pal\multiplo de 4\multiplo de 4\bin\Debug\net10.0\multiplo de 4.exe
+C:\Users\fatec-ams-ds1\Documents\pal\multiplo de 4\multiplo de 4\bin\Debug\net10.0\multiplo de 4.deps.json
+C:\Users\fatec-ams-ds1\Documents\pal\multiplo de 4\multiplo de 4\bin\Debug\net10.0\multiplo de 4.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\pal\multiplo de 4\multiplo de 4\bin\Debug\net10.0\multiplo de 4.dll
+C:\Users\fatec-ams-ds1\Documents\pal\multiplo de 4\multiplo de 4\bin\Debug\net10.0\multiplo de 4.pdb
+C:\Users\fatec-ams-ds1\Documents\pal\multiplo de 4\multiplo de 4\obj\Debug\net10.0\multiplo de 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\pal\multiplo de 4\multiplo de 4\obj\Debug\net10.0\multiplo de 4.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\pal\multiplo de 4\multiplo de 4\obj\Debug\net10.0\multiplo de 4.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\pal\multiplo de 4\multiplo de 4\obj\Debug\net10.0\multiplo de 4.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\pal\multiplo de 4\multiplo de 4\obj\Debug\net10.0\multiplo de 4.dll
+C:\Users\fatec-ams-ds1\Documents\pal\multiplo de 4\multiplo de 4\obj\Debug\net10.0\refint\multiplo de 4.dll
+C:\Users\fatec-ams-ds1\Documents\pal\multiplo de 4\multiplo de 4\obj\Debug\net10.0\multiplo de 4.pdb
+C:\Users\fatec-ams-ds1\Documents\pal\multiplo de 4\multiplo de 4\obj\Debug\net10.0\multiplo de 4.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\pal\multiplo de 4\multiplo de 4\obj\Debug\net10.0\ref\multiplo de 4.dll

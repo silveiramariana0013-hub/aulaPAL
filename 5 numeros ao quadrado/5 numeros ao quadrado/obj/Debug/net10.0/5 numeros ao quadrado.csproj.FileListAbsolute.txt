@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\pal\5 numeros ao quadrado\5 numeros ao quadrado\obj\Debug\net10.0\5 numeros ao quadrado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\pal\5 numeros ao quadrado\5 numeros ao quadrado\obj\Debug\net10.0\5 numeros ao quadrado.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\pal\5 numeros ao quadrado\5 numeros ao quadrado\obj\Debug\net10.0\5 numeros ao quadrado.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\pal\5 numeros ao quadrado\5 numeros ao quadrado\obj\Debug\net10.0\5 numeros ao quadrado.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\pal\5 numeros ao quadrado\5 numeros ao quadrado\bin\Debug\net10.0\5 numeros ao quadrado.exe
+C:\Users\fatec-ams-ds1\Documents\pal\5 numeros ao quadrado\5 numeros ao quadrado\bin\Debug\net10.0\5 numeros ao quadrado.deps.json
+C:\Users\fatec-ams-ds1\Documents\pal\5 numeros ao quadrado\5 numeros ao quadrado\bin\Debug\net10.0\5 numeros ao quadrado.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\pal\5 numeros ao quadrado\5 numeros ao quadrado\bin\Debug\net10.0\5 numeros ao quadrado.dll
+C:\Users\fatec-ams-ds1\Documents\pal\5 numeros ao quadrado\5 numeros ao quadrado\bin\Debug\net10.0\5 numeros ao quadrado.pdb
+C:\Users\fatec-ams-ds1\Documents\pal\5 numeros ao quadrado\5 numeros ao quadrado\obj\Debug\net10.0\5 numeros ao quadrado.dll
+C:\Users\fatec-ams-ds1\Documents\pal\5 numeros ao quadrado\5 numeros ao quadrado\obj\Debug\net10.0\refint\5 numeros ao quadrado.dll
+C:\Users\fatec-ams-ds1\Documents\pal\5 numeros ao quadrado\5 numeros ao quadrado\obj\Debug\net10.0\5 numeros ao quadrado.pdb
+C:\Users\fatec-ams-ds1\Documents\pal\5 numeros ao quadrado\5 numeros ao quadrado\obj\Debug\net10.0\5 numeros ao quadrado.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\pal\5 numeros ao quadrado\5 numeros ao quadrado\obj\Debug\net10.0\ref\5 numeros ao quadrado.dll

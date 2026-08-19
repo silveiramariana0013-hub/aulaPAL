@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\pal\10 POSITIVO NEGATIVO\10 POSITIVO NEGATIVO\bin\Debug\net10.0\10 POSITIVO NEGATIVO.exe
+C:\Users\fatec-ams-ds1\Documents\pal\10 POSITIVO NEGATIVO\10 POSITIVO NEGATIVO\bin\Debug\net10.0\10 POSITIVO NEGATIVO.deps.json
+C:\Users\fatec-ams-ds1\Documents\pal\10 POSITIVO NEGATIVO\10 POSITIVO NEGATIVO\bin\Debug\net10.0\10 POSITIVO NEGATIVO.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\pal\10 POSITIVO NEGATIVO\10 POSITIVO NEGATIVO\bin\Debug\net10.0\10 POSITIVO NEGATIVO.dll
+C:\Users\fatec-ams-ds1\Documents\pal\10 POSITIVO NEGATIVO\10 POSITIVO NEGATIVO\bin\Debug\net10.0\10 POSITIVO NEGATIVO.pdb
+C:\Users\fatec-ams-ds1\Documents\pal\10 POSITIVO NEGATIVO\10 POSITIVO NEGATIVO\obj\Debug\net10.0\10 POSITIVO NEGATIVO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\pal\10 POSITIVO NEGATIVO\10 POSITIVO NEGATIVO\obj\Debug\net10.0\10 POSITIVO NEGATIVO.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\pal\10 POSITIVO NEGATIVO\10 POSITIVO NEGATIVO\obj\Debug\net10.0\10 POSITIVO NEGATIVO.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\pal\10 POSITIVO NEGATIVO\10 POSITIVO NEGATIVO\obj\Debug\net10.0\10 POSITIVO NEGATIVO.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\pal\10 POSITIVO NEGATIVO\10 POSITIVO NEGATIVO\obj\Debug\net10.0\10 POSITIVO NEGATIVO.dll
+C:\Users\fatec-ams-ds1\Documents\pal\10 POSITIVO NEGATIVO\10 POSITIVO NEGATIVO\obj\Debug\net10.0\refint\10 POSITIVO NEGATIVO.dll
+C:\Users\fatec-ams-ds1\Documents\pal\10 POSITIVO NEGATIVO\10 POSITIVO NEGATIVO\obj\Debug\net10.0\10 POSITIVO NEGATIVO.pdb
+C:\Users\fatec-ams-ds1\Documents\pal\10 POSITIVO NEGATIVO\10 POSITIVO NEGATIVO\obj\Debug\net10.0\10 POSITIVO NEGATIVO.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\pal\10 POSITIVO NEGATIVO\10 POSITIVO NEGATIVO\obj\Debug\net10.0\ref\10 POSITIVO NEGATIVO.dll

@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\pal\homens e mulheres altura\homens e mulheres altura\bin\Debug\net10.0\homens e mulheres altura.exe
+C:\Users\fatec-ams-ds1\Documents\pal\homens e mulheres altura\homens e mulheres altura\bin\Debug\net10.0\homens e mulheres altura.deps.json
+C:\Users\fatec-ams-ds1\Documents\pal\homens e mulheres altura\homens e mulheres altura\bin\Debug\net10.0\homens e mulheres altura.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\pal\homens e mulheres altura\homens e mulheres altura\bin\Debug\net10.0\homens e mulheres altura.dll
+C:\Users\fatec-ams-ds1\Documents\pal\homens e mulheres altura\homens e mulheres altura\bin\Debug\net10.0\homens e mulheres altura.pdb
+C:\Users\fatec-ams-ds1\Documents\pal\homens e mulheres altura\homens e mulheres altura\obj\Debug\net10.0\homens e mulheres altura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\pal\homens e mulheres altura\homens e mulheres altura\obj\Debug\net10.0\homens e mulheres altura.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\pal\homens e mulheres altura\homens e mulheres altura\obj\Debug\net10.0\homens e mulheres altura.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\pal\homens e mulheres altura\homens e mulheres altura\obj\Debug\net10.0\homens e mulheres altura.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\pal\homens e mulheres altura\homens e mulheres altura\obj\Debug\net10.0\homens e mulheres altura.dll
+C:\Users\fatec-ams-ds1\Documents\pal\homens e mulheres altura\homens e mulheres altura\obj\Debug\net10.0\refint\homens e mulheres altura.dll
+C:\Users\fatec-ams-ds1\Documents\pal\homens e mulheres altura\homens e mulheres altura\obj\Debug\net10.0\homens e mulheres altura.pdb
+C:\Users\fatec-ams-ds1\Documents\pal\homens e mulheres altura\homens e mulheres altura\obj\Debug\net10.0\homens e mulheres altura.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\pal\homens e mulheres altura\homens e mulheres altura\obj\Debug\net10.0\ref\homens e mulheres altura.dll

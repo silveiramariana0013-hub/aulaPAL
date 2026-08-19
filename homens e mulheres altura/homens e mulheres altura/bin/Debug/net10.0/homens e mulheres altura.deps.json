@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "homens e mulheres altura/1.0.0": {
+        "runtime": {
+          "homens e mulheres altura.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "homens e mulheres altura/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
