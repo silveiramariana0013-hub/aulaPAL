@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\menores que 90\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D497318-BA35-4BA2-A420-245B520DF2ED}|menores que 90\\menores que 90.csproj|c:\\users\\fatec-ams-ds1\\documents\\pal\\menores que 90\\menores que 90\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D497318-BA35-4BA2-A420-245B520DF2ED}|menores que 90\\menores que 90.csproj|solutionrelative:menores que 90\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\menores que 90\\menores que 90\\Program.cs",
+              "RelativeDocumentMoniker": "menores que 90\\Program.cs",
+              "ToolTip": "C:\\Users\\fatec-ams-ds1\\Documents\\pal\\menores que 90\\menores que 90\\Program.cs",
+              "RelativeToolTip": "menores que 90\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-02T15:34:02.232Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

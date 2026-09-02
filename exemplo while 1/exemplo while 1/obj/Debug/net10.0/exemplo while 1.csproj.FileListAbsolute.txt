@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\pal\exemplo while 1\exemplo while 1\bin\Debug\net10.0\exemplo while 1.exe
+C:\Users\fatec-ams-ds1\Documents\pal\exemplo while 1\exemplo while 1\bin\Debug\net10.0\exemplo while 1.deps.json
+C:\Users\fatec-ams-ds1\Documents\pal\exemplo while 1\exemplo while 1\bin\Debug\net10.0\exemplo while 1.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\pal\exemplo while 1\exemplo while 1\bin\Debug\net10.0\exemplo while 1.dll
+C:\Users\fatec-ams-ds1\Documents\pal\exemplo while 1\exemplo while 1\bin\Debug\net10.0\exemplo while 1.pdb
+C:\Users\fatec-ams-ds1\Documents\pal\exemplo while 1\exemplo while 1\obj\Debug\net10.0\exemplo while 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\pal\exemplo while 1\exemplo while 1\obj\Debug\net10.0\exemplo while 1.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\pal\exemplo while 1\exemplo while 1\obj\Debug\net10.0\exemplo while 1.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\pal\exemplo while 1\exemplo while 1\obj\Debug\net10.0\exemplo while 1.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\pal\exemplo while 1\exemplo while 1\obj\Debug\net10.0\exemplo while 1.dll
+C:\Users\fatec-ams-ds1\Documents\pal\exemplo while 1\exemplo while 1\obj\Debug\net10.0\refint\exemplo while 1.dll
+C:\Users\fatec-ams-ds1\Documents\pal\exemplo while 1\exemplo while 1\obj\Debug\net10.0\exemplo while 1.pdb
+C:\Users\fatec-ams-ds1\Documents\pal\exemplo while 1\exemplo while 1\obj\Debug\net10.0\exemplo while 1.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\pal\exemplo while 1\exemplo while 1\obj\Debug\net10.0\ref\exemplo while 1.dll

@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\pal\EXAME F OU M\EXAME F OU M\bin\Debug\net10.0\EXAME F OU M.exe
+C:\Users\fatec-ams-ds1\Documents\pal\EXAME F OU M\EXAME F OU M\bin\Debug\net10.0\EXAME F OU M.deps.json
+C:\Users\fatec-ams-ds1\Documents\pal\EXAME F OU M\EXAME F OU M\bin\Debug\net10.0\EXAME F OU M.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\pal\EXAME F OU M\EXAME F OU M\bin\Debug\net10.0\EXAME F OU M.dll
+C:\Users\fatec-ams-ds1\Documents\pal\EXAME F OU M\EXAME F OU M\bin\Debug\net10.0\EXAME F OU M.pdb
+C:\Users\fatec-ams-ds1\Documents\pal\EXAME F OU M\EXAME F OU M\obj\Debug\net10.0\EXAME F OU M.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\pal\EXAME F OU M\EXAME F OU M\obj\Debug\net10.0\EXAME F OU M.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\pal\EXAME F OU M\EXAME F OU M\obj\Debug\net10.0\EXAME F OU M.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\pal\EXAME F OU M\EXAME F OU M\obj\Debug\net10.0\EXAME F OU M.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\pal\EXAME F OU M\EXAME F OU M\obj\Debug\net10.0\EXAME F OU M.dll
+C:\Users\fatec-ams-ds1\Documents\pal\EXAME F OU M\EXAME F OU M\obj\Debug\net10.0\refint\EXAME F OU M.dll
+C:\Users\fatec-ams-ds1\Documents\pal\EXAME F OU M\EXAME F OU M\obj\Debug\net10.0\EXAME F OU M.pdb
+C:\Users\fatec-ams-ds1\Documents\pal\EXAME F OU M\EXAME F OU M\obj\Debug\net10.0\EXAME F OU M.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\pal\EXAME F OU M\EXAME F OU M\obj\Debug\net10.0\ref\EXAME F OU M.dll

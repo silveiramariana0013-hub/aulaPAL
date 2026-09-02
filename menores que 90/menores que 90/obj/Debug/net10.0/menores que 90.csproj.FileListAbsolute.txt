@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\pal\menores que 90\menores que 90\bin\Debug\net10.0\menores que 90.exe
+C:\Users\fatec-ams-ds1\Documents\pal\menores que 90\menores que 90\bin\Debug\net10.0\menores que 90.deps.json
+C:\Users\fatec-ams-ds1\Documents\pal\menores que 90\menores que 90\bin\Debug\net10.0\menores que 90.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\pal\menores que 90\menores que 90\bin\Debug\net10.0\menores que 90.dll
+C:\Users\fatec-ams-ds1\Documents\pal\menores que 90\menores que 90\bin\Debug\net10.0\menores que 90.pdb
+C:\Users\fatec-ams-ds1\Documents\pal\menores que 90\menores que 90\obj\Debug\net10.0\menores que 90.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\pal\menores que 90\menores que 90\obj\Debug\net10.0\menores que 90.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\pal\menores que 90\menores que 90\obj\Debug\net10.0\menores que 90.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\pal\menores que 90\menores que 90\obj\Debug\net10.0\menores que 90.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\pal\menores que 90\menores que 90\obj\Debug\net10.0\menores que 90.dll
+C:\Users\fatec-ams-ds1\Documents\pal\menores que 90\menores que 90\obj\Debug\net10.0\refint\menores que 90.dll
+C:\Users\fatec-ams-ds1\Documents\pal\menores que 90\menores que 90\obj\Debug\net10.0\menores que 90.pdb
+C:\Users\fatec-ams-ds1\Documents\pal\menores que 90\menores que 90\obj\Debug\net10.0\menores que 90.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\pal\menores que 90\menores que 90\obj\Debug\net10.0\ref\menores que 90.dll

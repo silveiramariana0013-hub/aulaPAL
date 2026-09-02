@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\pal\5 pessoas ano atual\5 pessoas ano atual\bin\Debug\net10.0\5 pessoas ano atual.exe
+C:\Users\fatec-ams-ds1\Documents\pal\5 pessoas ano atual\5 pessoas ano atual\bin\Debug\net10.0\5 pessoas ano atual.deps.json
+C:\Users\fatec-ams-ds1\Documents\pal\5 pessoas ano atual\5 pessoas ano atual\bin\Debug\net10.0\5 pessoas ano atual.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\pal\5 pessoas ano atual\5 pessoas ano atual\bin\Debug\net10.0\5 pessoas ano atual.dll
+C:\Users\fatec-ams-ds1\Documents\pal\5 pessoas ano atual\5 pessoas ano atual\bin\Debug\net10.0\5 pessoas ano atual.pdb
+C:\Users\fatec-ams-ds1\Documents\pal\5 pessoas ano atual\5 pessoas ano atual\obj\Debug\net10.0\5 pessoas ano atual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\pal\5 pessoas ano atual\5 pessoas ano atual\obj\Debug\net10.0\5 pessoas ano atual.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\pal\5 pessoas ano atual\5 pessoas ano atual\obj\Debug\net10.0\5 pessoas ano atual.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\pal\5 pessoas ano atual\5 pessoas ano atual\obj\Debug\net10.0\5 pessoas ano atual.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\pal\5 pessoas ano atual\5 pessoas ano atual\obj\Debug\net10.0\5 pessoas ano atual.dll
+C:\Users\fatec-ams-ds1\Documents\pal\5 pessoas ano atual\5 pessoas ano atual\obj\Debug\net10.0\refint\5 pessoas ano atual.dll
+C:\Users\fatec-ams-ds1\Documents\pal\5 pessoas ano atual\5 pessoas ano atual\obj\Debug\net10.0\5 pessoas ano atual.pdb
+C:\Users\fatec-ams-ds1\Documents\pal\5 pessoas ano atual\5 pessoas ano atual\obj\Debug\net10.0\5 pessoas ano atual.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\pal\5 pessoas ano atual\5 pessoas ano atual\obj\Debug\net10.0\ref\5 pessoas ano atual.dll

@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\pal\quadrado menor ou igual\quadrado menor ou igual\obj\Debug\net10.0\quadrado menor ou igual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\pal\quadrado menor ou igual\quadrado menor ou igual\obj\Debug\net10.0\quadrado menor ou igual.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\pal\quadrado menor ou igual\quadrado menor ou igual\obj\Debug\net10.0\quadrado menor ou igual.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\pal\quadrado menor ou igual\quadrado menor ou igual\obj\Debug\net10.0\quadrado menor ou igual.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\pal\quadrado menor ou igual\quadrado menor ou igual\bin\Debug\net10.0\quadrado menor ou igual.exe
+C:\Users\fatec-ams-ds1\Documents\pal\quadrado menor ou igual\quadrado menor ou igual\bin\Debug\net10.0\quadrado menor ou igual.deps.json
+C:\Users\fatec-ams-ds1\Documents\pal\quadrado menor ou igual\quadrado menor ou igual\bin\Debug\net10.0\quadrado menor ou igual.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\pal\quadrado menor ou igual\quadrado menor ou igual\bin\Debug\net10.0\quadrado menor ou igual.dll
+C:\Users\fatec-ams-ds1\Documents\pal\quadrado menor ou igual\quadrado menor ou igual\bin\Debug\net10.0\quadrado menor ou igual.pdb
+C:\Users\fatec-ams-ds1\Documents\pal\quadrado menor ou igual\quadrado menor ou igual\obj\Debug\net10.0\quadrado menor ou igual.dll
+C:\Users\fatec-ams-ds1\Documents\pal\quadrado menor ou igual\quadrado menor ou igual\obj\Debug\net10.0\refint\quadrado menor ou igual.dll
+C:\Users\fatec-ams-ds1\Documents\pal\quadrado menor ou igual\quadrado menor ou igual\obj\Debug\net10.0\quadrado menor ou igual.pdb
+C:\Users\fatec-ams-ds1\Documents\pal\quadrado menor ou igual\quadrado menor ou igual\obj\Debug\net10.0\quadrado menor ou igual.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\pal\quadrado menor ou igual\quadrado menor ou igual\obj\Debug\net10.0\ref\quadrado menor ou igual.dll

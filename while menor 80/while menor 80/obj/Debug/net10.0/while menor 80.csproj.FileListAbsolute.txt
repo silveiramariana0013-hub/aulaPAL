@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\pal\while menor 80\while menor 80\bin\Debug\net10.0\while menor 80.exe
+C:\Users\fatec-ams-ds1\Documents\pal\while menor 80\while menor 80\bin\Debug\net10.0\while menor 80.deps.json
+C:\Users\fatec-ams-ds1\Documents\pal\while menor 80\while menor 80\bin\Debug\net10.0\while menor 80.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\pal\while menor 80\while menor 80\bin\Debug\net10.0\while menor 80.dll
+C:\Users\fatec-ams-ds1\Documents\pal\while menor 80\while menor 80\bin\Debug\net10.0\while menor 80.pdb
+C:\Users\fatec-ams-ds1\Documents\pal\while menor 80\while menor 80\obj\Debug\net10.0\while menor 80.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\pal\while menor 80\while menor 80\obj\Debug\net10.0\while menor 80.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\pal\while menor 80\while menor 80\obj\Debug\net10.0\while menor 80.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\pal\while menor 80\while menor 80\obj\Debug\net10.0\while menor 80.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\pal\while menor 80\while menor 80\obj\Debug\net10.0\while menor 80.dll
+C:\Users\fatec-ams-ds1\Documents\pal\while menor 80\while menor 80\obj\Debug\net10.0\refint\while menor 80.dll
+C:\Users\fatec-ams-ds1\Documents\pal\while menor 80\while menor 80\obj\Debug\net10.0\while menor 80.pdb
+C:\Users\fatec-ams-ds1\Documents\pal\while menor 80\while menor 80\obj\Debug\net10.0\while menor 80.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\pal\while menor 80\while menor 80\obj\Debug\net10.0\ref\while menor 80.dll

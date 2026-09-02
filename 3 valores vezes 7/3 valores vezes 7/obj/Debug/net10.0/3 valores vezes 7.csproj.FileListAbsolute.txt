@@ -1,0 +1,14 @@
+C:\Users\fatec-ams-ds1\Documents\pal\3 valores vezes 7\3 valores vezes 7\bin\Debug\net10.0\3 valores vezes 7.exe
+C:\Users\fatec-ams-ds1\Documents\pal\3 valores vezes 7\3 valores vezes 7\bin\Debug\net10.0\3 valores vezes 7.deps.json
+C:\Users\fatec-ams-ds1\Documents\pal\3 valores vezes 7\3 valores vezes 7\bin\Debug\net10.0\3 valores vezes 7.runtimeconfig.json
+C:\Users\fatec-ams-ds1\Documents\pal\3 valores vezes 7\3 valores vezes 7\bin\Debug\net10.0\3 valores vezes 7.dll
+C:\Users\fatec-ams-ds1\Documents\pal\3 valores vezes 7\3 valores vezes 7\bin\Debug\net10.0\3 valores vezes 7.pdb
+C:\Users\fatec-ams-ds1\Documents\pal\3 valores vezes 7\3 valores vezes 7\obj\Debug\net10.0\3 valores vezes 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatec-ams-ds1\Documents\pal\3 valores vezes 7\3 valores vezes 7\obj\Debug\net10.0\3 valores vezes 7.AssemblyInfoInputs.cache
+C:\Users\fatec-ams-ds1\Documents\pal\3 valores vezes 7\3 valores vezes 7\obj\Debug\net10.0\3 valores vezes 7.AssemblyInfo.cs
+C:\Users\fatec-ams-ds1\Documents\pal\3 valores vezes 7\3 valores vezes 7\obj\Debug\net10.0\3 valores vezes 7.csproj.CoreCompileInputs.cache
+C:\Users\fatec-ams-ds1\Documents\pal\3 valores vezes 7\3 valores vezes 7\obj\Debug\net10.0\3 valores vezes 7.dll
+C:\Users\fatec-ams-ds1\Documents\pal\3 valores vezes 7\3 valores vezes 7\obj\Debug\net10.0\refint\3 valores vezes 7.dll
+C:\Users\fatec-ams-ds1\Documents\pal\3 valores vezes 7\3 valores vezes 7\obj\Debug\net10.0\3 valores vezes 7.pdb
+C:\Users\fatec-ams-ds1\Documents\pal\3 valores vezes 7\3 valores vezes 7\obj\Debug\net10.0\3 valores vezes 7.genruntimeconfig.cache
+C:\Users\fatec-ams-ds1\Documents\pal\3 valores vezes 7\3 valores vezes 7\obj\Debug\net10.0\ref\3 valores vezes 7.dll
